@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Code White's profile!
+  Welcome to Danny Chen's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -10,19 +10,14 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : https://codewhiteweb.cf
+🔭 I’m currently working on more public repos.
   
-🌱 I’m currently learning : Node.js
-
-  👯 I’m looking to collaborate on my webpage
-
-  🤔 I’m Not looking for help
+🌱 I’m currently learning : Vue
 
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
+  Mail me at "dannywchen3@gmail.com"
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
