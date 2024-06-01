@@ -12,7 +12,7 @@
 # 💫About Me :
 🔭 I’m currently working on more public repos.
   
-🌱 I’m currently learning : Vue
+🌱 I’m currently learning : React
 
   💬 Ask me about for any help
 
