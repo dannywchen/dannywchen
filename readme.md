@@ -1,12 +1,11 @@
 <h3 align="center">
   Welcome to Danny Chen's profile!
 
-
 ---
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on more public repos.
+🔭 I’m currently working on speedrunning hackathons and making my own startup!
   
 🌱 I’m currently learning : React
 
@@ -15,9 +14,9 @@
   📫 How to reach me:  
   Mail me at "dannywchen3@gmail.com"
 
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+⚡ Fun fact: BuildSpace just launched their season 5 and I am participating in it!!
 
-[WIP profile] 
+[This is a WIP profile, I am going to update it in the summer.] 
 
 
 # 📊GitHub Stats :
