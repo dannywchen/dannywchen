@@ -1,31 +1,39 @@
-<h3 align="center">
-  Welcome to Danny Chen's profile!
+# Welcome to Danny's GitHub Profile! 👋
+
+Hi, I'm Danny Chen, a passionate developer!
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on: @QuestTP
+- 🌱 I’m currently learning: React.js
+- 👯 I’m looking to collaborate on: QuestTP
+- 📫 How to reach me: dannywchen3@gmail.com 
+
+## 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dannywchen&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannywchen&layout=compact&theme=radical)
+
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannywchen)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dannywchen)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannywchen3@gmail.com)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=dannywchen&style=for-the-badge)
 
 ---
-<div align="center">
-  
-# 💫About Me :
-🔭 I’m currently working on speedrunning hackathons and making my own startup!
-  
-🌱 I’m currently learning : React
 
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Mail me at "dannywchen3@gmail.com"
-
-⚡ Fun fact: BuildSpace just launched their season 5 and I am participating in it!!
-
-[This is a WIP profile, I am going to update it in the summer.] 
-
-
-# 📊GitHub Stats :
-![dannywchen's Stats](https://github-readme-stats.vercel.app/api?username=dannywchen&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![dannywchen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dannywchen&theme=vue-dark&hide_border=false)
-![dannywchen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dannywchen&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-</div>
+*Thanks for visiting! Have a great day!* 🌟
