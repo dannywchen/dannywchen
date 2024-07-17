@@ -1,6 +1,4 @@
-# Welcome to Danny's GitHub Profile! 👋
-
-Hi, I'm Danny Chen, a passionate developer!
+# Hi, I'm Danny Chen, a passionate developer!
 
 ## 🚀 About Me
 
