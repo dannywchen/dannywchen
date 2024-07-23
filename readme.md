@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on: @QuestTP
 - 🌱 I’m currently learning: React.js
 - 👯 I’m looking to collaborate on: QuestTP
-- 📫 How to reach me: dannywchen3@gmail.com 
+- 📫 How to reach me: dannywchen3@gmail.com
+- Favorite Quote: "Failure is just delayed success"
 
 ## 🛠️ Languages and Tools
 
