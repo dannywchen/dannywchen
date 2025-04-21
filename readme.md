@@ -37,4 +37,4 @@
 
 ---
 
-*Feel free to email for any collabs + coffee chat* 🌟
+*Most of my repos are private. Feel free to email for any collabs + coffee chat* 🌟
