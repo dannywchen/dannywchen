@@ -1,4 +1,4 @@
-# Hi, I'm Danny Chen, x3 startup founder ($7500 MRR) & full stack developer.
+# I'm Danny. x3 startup founder ($7500 MRR) & full stack developer.
 
 ## 🚀 About Me
 
