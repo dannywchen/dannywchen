@@ -1,12 +1,11 @@
-# Hi, I'm Danny Chen, a passionate developer!
+# Hi, I'm Danny Chen, x3 startup founder ($7500 MRR) & full stack developer.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: @QuestTP
-- 🌱 I’m currently learning: React.js
-- 👯 I’m looking to collaborate on: QuestTP
-- 📫 How to reach me: dannywchen3@gmail.com
-- Favorite Quote: "Failure is just delayed success"
+- 🔭 I’m currently working on: @Zenlocked
+- 🌱 I’m currently learning: Three.JS
+- 👯 I’m seeking funding/grant opportunities & internships!
+- 📫 How to reach me: dannywchenofficial@gmail.com
 
 ## 🛠️ Languages and Tools
 
@@ -32,10 +31,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannywchen)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dannywchen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannywchen3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannywchenofficial@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dannywchen&style=for-the-badge)
 
 ---
 
-*Thanks for visiting! Have a great day!* 🌟
+*Feel free to email for any collabs + coffee chat* 🌟
