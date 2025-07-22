@@ -1,4 +1,4 @@
-# I'm Danny. x3 startup founder ($7500 TRR) & full stack developer.
+# I'm Danny. x3 startup founder ($7500 TR) & full stack developer.
 
 ## 🚀 About Me
 
