@@ -8,7 +8,6 @@
 
 ## 📈 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dannywchen&theme=onedark)](https://github.com/dannywchen/github-profile-trophy)
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dannywchen&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannywchen&layout=compact&theme=radical)
 
