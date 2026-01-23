@@ -5,12 +5,7 @@
 - 🔭 I’m currently working at Ultra (YC W24)
 - 👯 I’m seeking funding/grant opportunities & internships!
 - 📫 How to reach me: dannywchenofficial@gmail.com
-
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dannywchen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannywchen&layout=compact&theme=radical)
-
+- 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannywchen)
