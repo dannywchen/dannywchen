@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at Ultra (YC W24)
 - 👯 I’m seeking funding/grant opportunities & internships!
 - 📫 How to reach me: dannywchenofficial@gmail.com
-- 
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannywchen)
