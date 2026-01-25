@@ -1,10 +1,9 @@
-# Hi, I'm Danny. Founded a startup and partnered with YC startups.
+# Hi, I'm Danny. Founded a edtech startup (pivotted), partnered with YC startups.
 
 ## 🚀 About Me  
 
 - 🔭 I’m currently working at Ultra (YC W24)
-- 👯 I’m seeking funding/grant opportunities & internships!
-- 📫 How to reach me: dannywchenofficial@gmail.com
+- 📫 You can reach me @dannywchenofficial@gmail.com
 
 ## 🌐 Connect with Me
 
