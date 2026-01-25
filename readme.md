@@ -1,4 +1,4 @@
-# Hi, I'm Danny. Founded a edtech startup (pivotted), partnered with YC startups.
+# Hi, I'm Danny. Founded a startup, partnered with YC startups.
 
 ## 🚀 About Me  
 
