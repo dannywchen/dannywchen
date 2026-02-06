@@ -1,11 +1,11 @@
-# Hi, I'm Danny. Founded a startup, partnered with YC startups.
+# Hi, I'm Danny. Founded a startup ($7k TR), partnered with YC startups.
 
-## 🚀 About Me  
+## 🚀 about me!
 
 - 🔭 I’m currently working at Ultra (YC W24)
 - 📫 You can reach me @dannywchenofficial@gmail.com
 
-## 🌐 Connect with Me
+## 🌐 my links!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannywchen)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dannywchen)
