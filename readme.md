@@ -1,7 +1,8 @@
-# Hi, I'm Danny. NY kid who made a startup for fun ($7k total revenue); partnered with YC startups!
+# Hi, I'm Danny.
 
 ## 🚀 about me!
 
+- 😆 Brooklyn kid who loves to build and happen to make a startup for fun ($7k total revenue); partnered with YC startups!
 - 🔭 I’m currently working at Ultra (YC W24)
 - 📫 You can reach me @dannywchenofficial@gmail.com
 
