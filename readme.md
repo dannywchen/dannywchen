@@ -2,9 +2,9 @@
 
 ## 🚀 about me!
 
-- 😆 Brooklyn kid who loves to build and happen to make a startup for fun ($7k total revenue); partnered with YC startups!
-- 🔭 I’m currently working at Ultra (YC W24)
-- 📫 You can reach me @dannywchenofficial@gmail.com
+- 😆 Ambitious techie that loves to build, who also happen to build an EdTech startup for fun ($7k total revenue); partnered with YC startups!
+- 🔭 I’m currently working at Ultra (YC W24) as a software engineer.
+- 📫 You can reach me @dannywchenofficial@gmail.com!
 
 ## 🌐 my links!
 
@@ -16,4 +16,4 @@
 
 ---
 
-*Most of my repos are private. Feel free to email for any collabs + coffee chat* 🌟
+🌟 *Note: Most of my repos are private. Feel free to email for any collabs + coffee chat* 
