@@ -1,4 +1,4 @@
-# Hi, I'm Danny. Founded a startup ($7k TR), partnered with YC startups.
+# Hi, I'm Danny. NY kid who made a startup for fun ($7k total revenue); partnered with YC startups!
 
 ## 🚀 about me!
 
