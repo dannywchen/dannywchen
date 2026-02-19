@@ -16,4 +16,4 @@
 
 ---
 
-🌟 *Note: Most of my repos are private. Feel free to email for any collabs + coffee chat* 
+🌟 *Note: Most of my repos are private. Feel free to email for any collabs + coffee chat.* 
